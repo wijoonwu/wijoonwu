@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- 헤더 ~ 푸터 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World!%20🥳&fontSize=70)
 
-<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat" />
+<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=JavaScript&logoColor=yellow"/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
