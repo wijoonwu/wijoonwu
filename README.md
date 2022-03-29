@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div align="center">
  
- ⚡️ Front-end Stack  ⚡️
+## ⚡️ Front-end Stack  ⚡️
   
  
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
@@ -29,14 +29,14 @@ Here are some ideas to get you started:
   
  
  
- ⚡️ Back-end Stack  ⚡️
+## ⚡️ Back-end Stack  ⚡️
  
  
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
   
  
  
-   ⚡️ Tool ⚡️
+   ## ⚡️ Tool ⚡️
  
   
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/> 
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/> 
   
 
-  ⚡️ Other ⚡️
+ ## ⚡️ Other ⚡️
  
  
   <a href = "https://velog.io/@wijoonwu" >
