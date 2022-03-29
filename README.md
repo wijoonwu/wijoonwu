@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <!-- 헤더 ~ 푸터 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World!%20🥳&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,World!%20🥳&fontSize=70)
 
 <h3 align="center">
     👩🏻‍💻 Stack 👩🏻‍💻
