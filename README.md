@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World!%20🥳&fontSize=70)
 
 <div align="center">
+ 
  ⚡️ Front-end Stack  ⚡️
   
  
@@ -26,6 +27,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   
+ 
  
  ⚡️ Back-end Stack  ⚡️
  
