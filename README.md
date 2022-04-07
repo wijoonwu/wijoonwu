@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   <a href = "https://velog.io/@wijoonwu" >
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> 
   </a>
-  <a href = "https://www.notion.so/9ac8fb641d9c4c43b532c2c3b35533ce" >
+  <a href = "https://phrygian-peony-563.notion.site/9ac8fb641d9c4c43b532c2c3b35533ce" >
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
   </a>
 </p>
