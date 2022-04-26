@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 </p>
   
   
-  
 <h3 align="center">
   🛠 Tool 🛠
 </h3>
@@ -39,7 +38,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/> 
-</p>
 </p>
   
 
