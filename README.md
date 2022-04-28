@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style> 
-    #address {opacity: 0;}
-    .mail:hover #adress{opacity: 1;}     
-</style>
 <!-- 헤더 ~ 푸터 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,World!%20🥳&fontSize=70)
 
