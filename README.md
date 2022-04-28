@@ -47,10 +47,10 @@ Here are some ideas to get you started:
  
  
 <p align="center">
-  <a target="_blank" href = "https://velog.io/@wijoonwu" >
+  <a target="_blank" rel="opener" href = "https://velog.io/@wijoonwu" >
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> 
   </a>
-  <a target="_blank" href = "https://phrygian-peony-563.notion.site/9ac8fb641d9c4c43b532c2c3b35533ce" >
+  <a target="_blank" rel="opener" href = "https://phrygian-peony-563.notion.site/9ac8fb641d9c4c43b532c2c3b35533ce" >
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
   </a>
   <a target="_blank" rel="opener" href = "https://www.instagram.com/dnljoondn/">
