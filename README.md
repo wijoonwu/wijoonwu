@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   
 
 <h3 align="center">
- 🌈 Other 🌈
+ 🌈 Me 🌈
 </h3>
  
  
@@ -53,6 +53,9 @@ Here are some ideas to get you started:
   </a>
   <a href = "https://phrygian-peony-563.notion.site/9ac8fb641d9c4c43b532c2c3b35533ce" >
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
+  </a>
+  <a href = "https://www.instagram.com/dnljoondn/" >
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
   </a>
 </p>
 
