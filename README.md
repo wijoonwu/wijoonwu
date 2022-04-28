@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,World!%20🥳&fontSize=70)
 
 <h3 align="center">
-    👩🏻‍💻 Stack 👩🏻‍💻
+    👩🏻‍💻 StackS 👩🏻‍💻
 </h3>
 
 <p align="center">
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   
   
 <h3 align="center">
-  🛠 Tool 🛠
+  🛠 Tools 🛠
 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/> 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   
 
 <h3 align="center">
- 🌈 Me 🌈
+ 🌈 About Me 🌈
 </h3>
  
  
