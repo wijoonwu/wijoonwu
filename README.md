@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   <a href = "https://velog.io/@wijoonwu" target="_blank" rel="opener"  >
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> 
   </a>  
-  <a href = "https://phrygian-peony-563.notion.site/9ac8fb641d9c4c43b532c2c3b35533ce" target="_blank" rel="opener" >
+  <a href = "https://phrygian-peony-563.notion.site/0227497af4aa4869b42c695d77443426" target="_blank" rel="opener" >
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
   </a>
   <a href = "https://www.instagram.com/dnljoondn/" target="_blank" rel="opener">
