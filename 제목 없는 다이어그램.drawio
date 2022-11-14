@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T05:44:13.268Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Fl_ivsyz_5ai4lAoW4VJ" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T05:51:09.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="_2Yh5cyBi_UJkTUzTlRs" version="20.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry x="180" y="325" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VQeY1ZyDB1w77uvYQ3KY-9" value="COUNTRY CHECK" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="520" width="150" height="30" as="geometry" />
+          <mxGeometry x="180" y="360" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VQeY1ZyDB1w77uvYQ3KY-10" value="Erompay3paymentDto" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="134" width="150" height="60" as="geometry" />
@@ -88,8 +88,38 @@
         <mxCell id="VQeY1ZyDB1w77uvYQ3KY-23" value="binDataService" style="whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="310" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VQeY1ZyDB1w77uvYQ3KY-25" value="카드빈 SET" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="VQeY1ZyDB1w77uvYQ3KY-25" value="결제수단 조회" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="400" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQeY1ZyDB1w77uvYQ3KY-30" value="가맹점 프로세서 조회" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="440" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQeY1ZyDB1w77uvYQ3KY-31" value="결제 만료일자 조회" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="480" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQeY1ZyDB1w77uvYQ3KY-32" value="프로세서 MID 조회" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="520" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQeY1ZyDB1w77uvYQ3KY-33" value="가맹점 결제수단 조회" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="555" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQeY1ZyDB1w77uvYQ3KY-34" value="가맹점 Currency 정보조회" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="590" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQeY1ZyDB1w77uvYQ3KY-35" value="요청 가능 통화 확인" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="625" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQeY1ZyDB1w77uvYQ3KY-36" value="Processing 통화와 금액 SET" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="660" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQeY1ZyDB1w77uvYQ3KY-39" value="MCP 자동 변환 및 SET" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="700" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQeY1ZyDB1w77uvYQ3KY-40" value="가맹점 최소 최대 금액 검증" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="740" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQeY1ZyDB1w77uvYQ3KY-41" value="거래 데이터 SET" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="780" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
