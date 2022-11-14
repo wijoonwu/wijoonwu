@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T06:40:48.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="s6QmucieWVlT8i_vfmsZ" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T06:49:49.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="fWnTUUxAHI5r0bY3z2fG" version="20.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,35 +94,57 @@
         <mxCell id="VQeY1ZyDB1w77uvYQ3KY-25" value="결제수단 조회" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="450" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VQeY1ZyDB1w77uvYQ3KY-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VQeY1ZyDB1w77uvYQ3KY-30" target="VQeY1ZyDB1w77uvYQ3KY-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VQeY1ZyDB1w77uvYQ3KY-30" value="가맹점 프로세서 조회" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="490" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQeY1ZyDB1w77uvYQ3KY-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VQeY1ZyDB1w77uvYQ3KY-31" target="VQeY1ZyDB1w77uvYQ3KY-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VQeY1ZyDB1w77uvYQ3KY-31" value="결제 만료일자 조회" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="530" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VQeY1ZyDB1w77uvYQ3KY-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VQeY1ZyDB1w77uvYQ3KY-32" target="VQeY1ZyDB1w77uvYQ3KY-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VQeY1ZyDB1w77uvYQ3KY-32" value="프로세서 MID 조회" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="570" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQeY1ZyDB1w77uvYQ3KY-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VQeY1ZyDB1w77uvYQ3KY-33" target="VQeY1ZyDB1w77uvYQ3KY-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="623" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="VQeY1ZyDB1w77uvYQ3KY-33" value="가맹점 결제수단 조회" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="605" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VQeY1ZyDB1w77uvYQ3KY-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VQeY1ZyDB1w77uvYQ3KY-34" target="VQeY1ZyDB1w77uvYQ3KY-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VQeY1ZyDB1w77uvYQ3KY-34" value="가맹점 Currency 정보조회" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="640" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQeY1ZyDB1w77uvYQ3KY-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VQeY1ZyDB1w77uvYQ3KY-35" target="VQeY1ZyDB1w77uvYQ3KY-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VQeY1ZyDB1w77uvYQ3KY-35" value="요청 가능 통화 확인" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="675" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VQeY1ZyDB1w77uvYQ3KY-36" value="Processing 통화와 금액 SET" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="710" width="150" height="30" as="geometry" />
+          <mxGeometry x="180" y="760" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VQeY1ZyDB1w77uvYQ3KY-39" value="MCP 자동 변환 및 SET" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="750" width="150" height="30" as="geometry" />
+          <mxGeometry x="180" y="800" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VQeY1ZyDB1w77uvYQ3KY-40" value="가맹점 최소 최대 금액 검증" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="790" width="150" height="30" as="geometry" />
+          <mxGeometry x="180" y="840" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VQeY1ZyDB1w77uvYQ3KY-41" value="거래 데이터 SET" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="830" width="150" height="30" as="geometry" />
+          <mxGeometry x="180" y="880" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VQeY1ZyDB1w77uvYQ3KY-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VQeY1ZyDB1w77uvYQ3KY-42" target="VQeY1ZyDB1w77uvYQ3KY-66">
           <mxGeometry relative="1" as="geometry" />
@@ -140,13 +162,13 @@
           <mxGeometry x="370" y="570" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VQeY1ZyDB1w77uvYQ3KY-46" value="merchantSchemeService" style="whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="610" width="150" height="30" as="geometry" />
+          <mxGeometry x="370" y="608" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VQeY1ZyDB1w77uvYQ3KY-47" value="merchantCurrencyService" style="whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="645" width="150" height="30" as="geometry" />
+          <mxGeometry x="370" y="640" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VQeY1ZyDB1w77uvYQ3KY-48" value="merchantSettlementService" style="whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="680" width="150" height="30" as="geometry" />
+          <mxGeometry x="370" y="675" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VQeY1ZyDB1w77uvYQ3KY-58" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="136.5" width="165" height="85" as="geometry" />
@@ -171,6 +193,21 @@
         </mxCell>
         <mxCell id="VQeY1ZyDB1w77uvYQ3KY-71" value="Processing 통화와 금액 SET" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1370" y="430" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQeY1ZyDB1w77uvYQ3KY-82" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="710" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VQeY1ZyDB1w77uvYQ3KY-83" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;PaymentCardReq&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="VQeY1ZyDB1w77uvYQ3KY-82">
+          <mxGeometry x="22.727272727272727" y="37.05882352941176" width="90.9090909090909" height="32.94117647058823" as="geometry" />
+        </mxCell>
+        <mxCell id="VQeY1ZyDB1w77uvYQ3KY-84" value="Erompay3paymentDto" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="VQeY1ZyDB1w77uvYQ3KY-82">
+          <mxGeometry width="150" height="49.41176470588235" as="geometry" />
+        </mxCell>
+        <mxCell id="VQeY1ZyDB1w77uvYQ3KY-85" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="VQeY1ZyDB1w77uvYQ3KY-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="690" as="sourcePoint" />
+            <mxPoint x="710" y="580" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
