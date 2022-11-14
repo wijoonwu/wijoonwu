@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T06:39:56.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="xrQMGaivLx-EKEy2AfDd" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T06:40:48.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="s6QmucieWVlT8i_vfmsZ" version="20.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -168,6 +168,9 @@
         </mxCell>
         <mxCell id="VQeY1ZyDB1w77uvYQ3KY-66" value="binDataService" style="whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="450" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQeY1ZyDB1w77uvYQ3KY-71" value="Processing 통화와 금액 SET" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1370" y="430" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
