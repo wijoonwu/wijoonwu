@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 </p>
   
-
+<!--
 <h3 align="center">
  🌈 About Me 🌈
 </h3>
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 
 
-
+-->
 
 
 
