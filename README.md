@@ -52,14 +52,14 @@ Here are some ideas to get you started:
   <a href = "https://velog.io/@wijoonwu" target="_blank" rel="opener"  >
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> 
   </a>  
-  <a href = "https://www.instagram.com/mizoondn/" target="_blank" rel="opener">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
-  </a>
   <img title="devjoon@nate.com" src="https://img.shields.io/badge/devjoon@nate.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </p>
 
 <!--
 
+  <a href = "https://www.instagram.com/mizoondn/" target="_blank" rel="opener">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
+  </a>
   <a href = "https://phrygian-peony-563.notion.site/0227497af4aa4869b42c695d77443426" target="_blank" rel="opener" >
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
   </a>
